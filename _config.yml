@@ -1,7 +1,7 @@
 name: bodyarmourcanada.com
 favicon: null
-layout_spectrum: 0.46271403366699815
-typography_spectrum: 0.05646836757659912
+layout_spectrum: 0.92267
+typography_spectrum: 0.5012
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7772810249589384
+    - '#ffffff'
+    - '#134880'
+    - '#babac0'
+    - '#8c898f'
+    - '#d7d7d9'
+  brandStrength: 0.8125
   lightness: 0.02395854890346527
   saturation: 0.9701840977650136
   rhythmicContrast: 0.9060470419935882
