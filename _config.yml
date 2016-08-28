@@ -19,11 +19,14 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6311e341-2277-4bc5-bac4-101b5c0cd0a7.jpg
 name: bodyarmourcanada.com
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6f5ac24-2b0b-44a2-b72c-9defab421e4c.jpg
 title: Body Armour Canada
 purpose: []
