@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[bodyarmourcanada.com]]></title>
         <description><![CDATA[bodyarmourcanada.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bodyarmourcanada-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 19:35:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Aug 2016 13:39:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bodyarmourcanada-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Body Armour Canada provides protection to all levels of society via our bulletproof/bullet resistant body armour]]></title>
-            <description><![CDATA[<h1>Body Armour Canada provides protection to all levels of society via our bulletproof/bullet resistant body armour</h1>]]></description>
-            <link>undefinedbody-armour-canada-provides-protection-to-all-levels-of-soci/index.html</link>
+            <description><![CDATA[<article><h1>Body Armour Canada provides protection to all levels of society via our bulletproof/bullet resistant body armour</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/979d7930-0e46-475b-9102-3f637389df03.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bodyarmourcanada-com/body-armour-canada-provides-protection-to-all-levels-of-soci/index.html</link>
             <guid isPermaLink="false">21bb7b9d-083e-4b35-ae3f-833065642332</guid>
-            <pubDate>Fri, 04 Mar 2016 19:35:38 GMT</pubDate>
+            <pubDate>Sat, 27 Aug 2016 13:39:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
