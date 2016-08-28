@@ -1,19 +1,4 @@
-name: bodyarmourcanada.com
-favicon: null
-layout_spectrum: 0.92267
 typography_spectrum: 0.5012
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.02395854890346527
   saturation: 0.9701840977650136
   rhythmicContrast: 0.9060470419935882
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.92267
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: bodyarmourcanada.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Body Armour Canada
 purpose: []
