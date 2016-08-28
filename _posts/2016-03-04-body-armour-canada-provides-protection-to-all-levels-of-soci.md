@@ -1,25 +1,26 @@
 ---
+datePublished: '2016-08-27T13:39:01.478Z'
+sourcePath: >-
+  _posts/2016-03-04-body-armour-canada-provides-protection-to-all-levels-of-soci.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-04T19:35:38.390Z'
-dateModified: '2016-03-04T19:32:41.833Z'
-title: Body Armour Canada provides protection to all levels of society via our bulletproof/bullet resistant body armour
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-sourcePath: _posts/2016-03-04-body-armour-canada-provides-protection-to-all-levels-of-soci.md
-published: true
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-27T13:38:55.654Z'
+title: >-
+  Body Armour Canada provides protection to all levels of society via our
+  bulletproof/bullet resistant body armour
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 url: body-armour-canada-provides-protection-to-all-levels-of-soci/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/979d7930-0e46-475b-9102-3f637389df03.jpg)
+
 # Body Armour Canada provides protection to all levels of society via our bulletproof/bullet resistant body armour
